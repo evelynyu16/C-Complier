@@ -1,5 +1,3 @@
-// I fixed my code accoridng to your comments 
-// but if this isn't going to be grader higher than the last version please just ignore I've tried my best:)
 // jivec.c — single-file Jive compiler with let/set + stack machine IR + x86-64 asm
 // Build: clang -std=c11 -Wall -Wextra -Werror -g jivec.c -o jivec
 
