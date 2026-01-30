@@ -1,8 +1,3 @@
-//Sorry!!! I was focusing on the pitch event at school for my research project/startup
-//and didn't want to risk resubmit the work late last week. I should have reached out and work out a timeline instead.
-//when I could actually sit down and really fix the code. I apologize for the inconvenience caused.
-//Here is the fixed version of compiler3.c, lexer.c and parser.c according to your comments. 
-//Reviewing concepts for finals helped me understood some of my mistakesand I hope this version is satisfactory.
 
 #include <stdio.h>
 #include <stdlib.h>
